@@ -1,10 +1,10 @@
-## Aplicación de comando Node de clima
+# Aplicación de comando Node de clima
 
-# Inicio
+## Inicio
 
 Para la creación de eseta aplicación se utilizó RapidApi, y con ayuda de PostMan se obtiene a respuesta de la api y con npm axios se recibe la respuesta 
 
-API's
+##API's
 
 ...
 City Geo-Location y 
