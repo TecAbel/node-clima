@@ -7,7 +7,7 @@ Para la creación de eseta aplicación se utilizó RapidApi, y con ayuda de Post
 API's
 
 ...
-City Geo-Location
+City Geo-Location y 
 Open Weather
 ...
 
